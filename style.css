@@ -1,0 +1,167 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+  }
+  
+  .n-main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+  }
+  
+  .n-right {
+    display: flex;
+    gap: 44px;
+  
+    a {
+      text-decoration: none;
+      color: #272d38;
+    }
+  }
+  
+  .case {
+    width: 95%;
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  
+  .h-main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .h-left {
+    h1 {
+      font-size: 64px;
+    }
+  
+    p {
+      font-size: 18px;
+      padding: 24px 0;
+    }
+  
+    button {
+      width: 167px;
+      height: 48px;
+      border-radius: 7px;
+      background-color: #8eadd5;
+      color: #fff;
+      border: none;
+    }
+  }
+  
+  .title {
+    text-align: center;
+    padding-top: 100px;
+    color: #0f2451;
+    padding-bottom: 15px;
+  }
+  
+  .wrapper_images {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .case {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-top: 100px;
+  }
+  
+  .s-right {
+    h1 {
+      font-size: 48px;
+      padding-bottom: 26px;
+    }
+  
+    p {
+      font-size: 16px;
+  
+     padding-bottom: 26px;
+  
+    }
+  }
+  
+  
+  .case {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 100px;
+      margin-top: 100px;
+  }
+  
+  .m-left {
+      h1 {
+          font-size: 48px;
+          padding-bottom: 26px;
+      }
+  
+      p {
+          font-size: 18px;
+          padding-bottom: 26px;   
+      }
+  }
+  
+  h6 {
+      text-align: center;
+      font-size: 16px;
+  }
+  h1 {
+      text-align: center;
+      font-size: 48px;
+  }
+  
+  .box {
+    
+      width: 340px;
+      height: 340px;
+      border: 2px solid  #DEDCDB;
+      background-color: #DEDCDB;
+      border-radius: 20px;
+      text-align: center;
+      padding: 32px;
+  }
+  
+  .bbox {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+      margin-top: 50px;
+  
+  }
+  
+  
+  .case {
+      display: flex;
+      justify-content: center;
+      gap: 90px;
+      width: 1000px;
+      
+      background-color: #F6F6F6;
+      border-radius: 10px;
+  }
+  
+  .text {
+      h1 {
+          font-size: 48px;
+      }
+      p {
+          font-size: 16px;
+      }
+  
+      button {
+          width: 167px;
+          height: 48px;
+          border-radius: 7px;
+          background-color: #8eadd5;
+          color: #fff;
+          border: none;
+      }
+  }
